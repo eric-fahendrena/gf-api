@@ -1,0 +1,597 @@
+[
+  {
+    "id": "cours-preparatoire",
+    "name": "Cours préparatoire",
+    "items": [
+      
+      {
+        "id": "police",
+        "name": "Police",
+        "items": [
+          {
+            "id": "agent-de-police",
+            "name": "Agent de police"
+          },
+          {
+            "id": "inspecteur-de-police",
+            "name": "Inspecteur de police"
+          }
+        ]
+      },
+
+      {
+        "id": "gendarme",
+        "name": "Gendarme",
+        "items": []
+      },
+
+      {
+        "id": "ens",
+        "name": "ENS",
+        "items": [
+          {
+            "id": "se",
+            "name": "SE",
+            "items": [
+              {
+                "id": "connaissance-general",
+                "name": "Connaissance géneral (leçons)"
+              },
+              {
+                "id": "ex-connaissance-general",
+                "name": "Connaissance géneral (exercices)"
+              },
+              {
+                "id": "francais",
+                "name": "Français",
+                "books": [
+                  {
+                    "path": "/pdf/Français série A-C-D 2023.pdf",
+                    "name": "Français série A-C-D 2023.pdf"
+                  },
+                  {
+                    "path": "/pdf/Français série OSE 2023 .pdf",
+                    "name": "Français série OSE 2023 .pdf"
+                  },
+                  {
+                    "path": "/pdf/bac2014_Français_ACD.pdf",
+                    "name": "bac2014_Français_ACD.pdf"
+                  },
+                  {
+                    "path": "/pdf/bac2017_francais_ACD.pdf",
+                    "name": "bac2017_francais_ACD.pdf"
+                  },
+                  {
+                    "path": "/pdf/bac2022_français_D.pdf",
+                    "name": "bac2022_français_D.pdf"
+                  },
+                  {
+                    "path": "/pdf/Français série A-C-D 2023.pdf",
+                    "name": "Français série A-C-D 2023.pdf"
+                  },
+                  {
+                    "path": "/pdf/Français série S 2023.pdf",
+                    "name": "Français série S 2023.pdf"
+                  }
+                ]
+              },
+              {
+                "id": "ex-francais",
+                "name": "Français (exercices)"
+              }
+            ]
+          },
+          {
+            "id": "st",
+            "name": "ST",
+            "items": [
+              {
+                "id": "mathematiques",
+                "name": "Mathématiques (leçons)"
+              },
+              {
+                "id": "sujet-mathematiques",
+                "name": "Mathématiques (sujet)"
+              },
+              {
+                "id": "physique-chimie",
+                "name": "Physique Chimie (leçons)"
+              },
+              {
+                "id": "sujet-physique-chimie",
+                "name": "Physique Chimie (sujet)"
+              },
+              {
+                "id": "connaissance-general",
+                "name": "Connaissance géneral (leçons)"
+              },
+              {
+                "id": "ex-connaissance-general",
+                "name": "Connaissance géneral (exercices)"
+              }
+            ]
+          },
+          {
+            "id": "francais",
+            "name": "Français",
+            "items": [
+              {
+                "id": "connaissance-general",
+                "name": "Connaissance géneral (leçons)"
+              },
+              {
+                "id": "ex-connaissance-general",
+                "name": "Connaissance géneral (exercices)"
+              },
+              {
+                "id": "francais",
+                "name": "Français (leçon)"
+              },
+              {
+                "id": "ex-francais",
+                "name": "Français (exercices)"
+              }
+            ]
+          },
+          {
+            "id": "histo-geo",
+            "name": "Histo-Geo",
+            "items": [
+              {
+                "id": "connaissance-general",
+                "name": "Connaissance géneral (leçons)"
+              },
+              {
+                "id": "ex-connaissance-general",
+                "name": "Connaissance géneral (exercices)"
+              },
+              {
+                "id": "histo-geo",
+                "name": "Histo-Geo (leçon)"
+              },
+              {
+                "id": "ex-histo-geo",
+                "name": "Histo-Geo (exercices)"
+              }
+            ]
+          },
+          {
+            "id": "svt",
+            "name": "SVT",
+            "items": [
+              {
+                "id": "connaissance-general",
+                "name": "Connaissance géneral (leçons)"
+              },
+              {
+                "id": "ex-connaissance-general",
+                "name": "Connaissance géneral (exercices)"
+              },
+              {
+                "id": "svt",
+                "name": "SVT (leçon)"
+              },
+              {
+                "id": "ex-svt",
+                "name": "SVT (leçons)"
+              }
+            ]
+          }
+        ]
+      },
+
+      {
+        "id": "emit",
+        "name": "EMIT",
+        "items": [
+          {
+            "id": "aes",
+            "name": "AES",
+            "items": [
+              {
+                "id": "francais",
+                "name": "Français (leçon)"
+              },
+              {
+                "id": "sujet-francais",
+                "name": "Français (sujet)"
+              },
+              {
+                "id": "test-psycho",
+                "name": "Test Psycho"
+              }
+            ]
+          },
+          {
+            "id": "rpm",
+            "name": "RPM",
+            "items": [
+              {
+                "id": "francais",
+                "name": "Français (leçon)"
+              },
+              {
+                "id": "sujet-francais",
+                "name": "Français (sujet)"
+              },
+              {
+                "id": "test-psycho",
+                "name": "Test Psycho"
+              }
+            ]
+          },
+          {
+            "id": "daii",
+            "name": "DAII",
+            "items": [
+              {
+                "id": "mathematiques",
+                "name": "Mathématiques (leçon)"
+              },
+              {
+                "id": "sujet-mathematiques",
+                "name": "Mathématiques (sujet)"
+              },
+              {
+                "id": "test-psycho",
+                "name": "Test Psycho"
+              }
+            ]
+          }
+        ]
+      },
+
+      {
+        "id": "eni",
+        "name": "ENI",
+        "items": [
+          {
+            "id": "ia",
+            "name": "IA",
+            "items": []
+          },
+          {
+            "id": "general",
+            "name": "Générale",
+            "items": []
+          }
+        ]
+      },
+
+      {
+        "id": "eg-ss-mcj",
+        "name": "EG, SS et MCJ",
+        "items": [
+          {
+            "id": "eg",
+            "name": "EG",
+            "items": []
+          },
+          {
+            "id": "ss",
+            "name": "SS",
+            "items": []
+          },
+          {
+            "id": "mjc",
+            "name": "MJC",
+            "items": []
+          }
+        ]
+      },
+
+      {
+        "id": "iste",
+        "name": "ISTE",
+        "items": [
+          {
+            "id": "environnement",
+            "name": "Environnement",
+            "items": []
+          },
+          {
+            "id": "tourisme",
+            "name": "Tourisme",
+            "items": []
+          },
+          {
+            "id": "agromonie",
+            "name": "Argonomie",
+            "items": []
+          },
+          {
+            "id": "technologie",
+            "name": "Technologie",
+            "items": []
+          }
+        ]
+      },
+
+      {
+        "id": "enap",
+        "name": "ENAP",
+        "items": [
+          {
+            "id": "agent-penitentiaire",
+            "name": "Agent pénitentiaire",
+            "items": []
+          },
+          {
+            "id": "encadreur",
+            "name": "Encadreur",
+            "items": []
+          },
+          {
+            "id": "educateur",
+            "name": "Educateur",
+            "items": []
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "cours-fifanampiana",
+    "name": "Cours fifanampiana",
+    "items": [
+      {
+        "id": "emit",
+        "name": "EMIT",
+        "items": [
+          {
+            "id": "aes",
+            "name": "AES",
+            "items": [
+              {
+                "id": "lvl_l1",
+                "name": "L1",
+                "items": [
+                  {
+                    "id": "sujet-ex-mathematiques-financières",
+                    "name": "Mathématiques Financières (sujet d'examen)",
+                    "books": []
+                  },
+                  {
+                    "id": "sujet-ex-economie-generale",
+                    "name": "Économie générale (sujet d'examen)",
+                    "books": []
+                  },
+                  {
+                    "id": "sujet-ex-comptabilite-generale",
+                    "name": "Comptabilité générale (sujet d'examen)",
+                    "books": []
+                  },
+                  {
+                    "id": "sujet-ex-mathematiques-generales",
+                    "name": "Mathématiques générales (sujet d'examen)",
+                    "books": []
+                  },
+                  {
+                    "id": "sujet-ex-technique-d-organisation",
+                    "name": "Techniques d'organisation (sujet d'examen)",
+                    "books": []
+                  },
+                  {
+                    "id": "sujet-ex-demo-state",
+                    "name": "Demo-state (sujet d'examen)",
+                    "books": []
+                  }
+                ]
+              },
+              {
+                "id": "lvl_l2",
+                "name": "L2",
+                "items": [
+                  {
+                    "id": "sujet-ex-economie-d-entreprise",
+                    "name": "Économie d'entreprise (sujet d'examen)",
+                    "books": []
+                  },
+                  {
+                    "id": "sujet-ex-economie-d-environnement",
+                    "name": "Économie d'environnement (sujet d'examen)",
+                    "books": []
+                  },
+                  {
+                    "id": "sujet-ex-modelisation-economique",
+                    "name": "Modelisation économique (sujet d'examen)",
+                    "books": []
+                  },
+                  {
+                    "id": "sujet-ex-comptabilite-generale-2",
+                    "name": "Comptabilité générale 2 (sujet d'examen)",
+                    "books": []
+                  },
+                  {
+                    "id": "sujet-ex-comptabilite-analytique",
+                    "name": "Comptabilité analytique (sujet d'examen)",
+                    "books": []
+                  },
+                  {
+                    "id": "sujet-ex-statistiques-2",
+                    "name": "Statistiques 2 (sujet d'examen)",
+                    "books": []
+                  },
+                  {
+                    "id": "sujet-ex-probabilites",
+                    "name": "Probabilités (sujet d'examen)",
+                    "books": []
+                  }
+                ]
+              },
+              {
+                "id": "lvl_l3",
+                "name": "L3",
+                "items": []
+              },
+              {
+                "id": "lvl_m1",
+                "name": "M1",
+                "items": []
+              }
+            ]
+          },
+          {
+            "id": "info",
+            "name": "Info",
+            "levels": [
+              {
+                "id": "lvl_l1",
+                "name": "L1",
+                "items": []
+              },
+              {
+                "id": "lvl_l2",
+                "name": "L2",
+                "items": []
+              },
+              {
+                "id": "lvl_l3",
+                "name": "L3",
+                "items": []
+              },
+              {
+                "id": "lvl_m1",
+                "name": "M1",
+                "items": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "cours-de-langue",
+    "name": "Cours de langue",
+    "items": [
+      {
+        "id": "francais",
+        "name": "Français",
+        "items": [
+          {
+            "id": "grammaire",
+            "name": "Grammaire"
+          },
+          {
+            "id": "vocabulaires",
+            "name": "Vocabulaires"
+          }
+        ]
+      },
+      {
+        "id": "anglais",
+        "name": "Anglais",
+        "items": [
+          {
+            "id": "grammaire",
+            "name": "Grammaire"
+          },
+          {
+            "id": "vocabulaires",
+            "name": "Vocabulaires"
+          }
+        ]
+      },
+      {
+        "id": "espagnol",
+        "name": "Espagnol",
+        "items": [
+          {
+            "id": "grammaire",
+            "name": "Grammaire"
+          },
+          {
+            "id": "vocabulaires",
+            "name": "Vocabulaires"
+          }
+        ]
+      },
+      {
+        "id": "chinois",
+        "name": "Chinois",
+        "items": [
+          {
+            "id": "grammaire",
+            "name": "Grammaire"
+          },
+          {
+            "id": "vocabulaires",
+            "name": "Vocabulaires"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "cours-terminal",
+    "name": "Cours terminal",
+    "items": [
+      {
+        "id": "terminal-a",
+        "name": "Terminal A1 et A2",
+        "items": []
+      },
+      {
+        "id": "serie-dc",
+        "name": "Serie D et C",
+        "items": []
+      },
+      {
+        "id": "serie-sl",
+        "name": "Serie S et L",
+        "items": []
+      }
+    ]
+  },
+
+  {
+    "id": "formation",
+    "name": "Formation",
+    "items": [
+      {
+        "id": "marketing",
+        "name": "Marketing",
+        "items": []
+      },
+      {
+        "id": "formateur",
+        "name": "Formateur",
+        "items": []
+      },
+      {
+        "id": "commerce",
+        "name": "Commerce",
+        "items": []
+      },
+      {
+        "id": "comptabilite-generale",
+        "name": "Comptabilité générale",
+        "items": []
+      },
+      {
+        "id": "boost-page",
+        "name": "Boost page",
+        "items": []
+      },
+      {
+        "id": "trading",
+        "name": "Trading",
+        "items": []
+      },
+      {
+        "id": "travail-en-ligne",
+        "name": "Travail en ligne",
+        "items": []
+      },
+      {
+        "id": "fomba-ahazoana-vola-sur-fb",
+        "name": "Fomba ahazoana vola sur Facebook",
+        "items": []
+      }
+    ]
+  }
+]
