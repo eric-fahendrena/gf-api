@@ -10,11 +10,91 @@
         "items": [
           {
             "id": "agent-de-police",
-            "name": "Agent de police"
+            "name": "Agent de police (niveau BEPC)",
+            "items": [
+              {
+                "id": "francais",
+                "name": "Français",
+                "books": [
+                  {
+                    "path": "/pdf/frs/LEÇON-FRANÇAIS.pdf",
+                    "name": "LEÇON-FRANÇAIS.pdf"
+                  },
+                  {
+                    "path": "/pdf/frs/SUJET-TYPE-FRANÇAIS.pdf",
+                    "name": "SUJET-TYPE-FRANÇAIS.pdf"
+                  },
+                  {
+                    "path": "/pdf/frs/Expression-écrite-Dissertation-Résumé-et-Application.pdf",
+                    "name": "Expression-écrite-Dissertation-Résumé-et-Application.pdf"
+                  }
+                ]
+              },
+              {
+                "id": "connaissance-general",
+                "name": "Connaissance génerale",
+                "books": [
+                  {
+                    "path": "/pdf/cg/Connaissance-générale-1.pdf",
+                    "name": "Connaissance-générale-1.pdf"
+                  }
+                ]
+              },
+              {
+                "id": "ex-connaissance-general",
+                "name": "Connaissance génerale (exercices)",
+                "books": [
+                  {
+                    "path": "/pdf/cg/Connaissance-générale-QCM.pdf",
+                    "name": "Connaissance-générale-QCM.pdf"
+                  }
+                ]
+              },
+              {
+                "id": "histo-geo",
+                "name": "Histoire et Géographie",
+                "books": [
+                  {
+                    "path": "/pdf/frs/LESONA-sy-SUJET-TYPE-HG.pdf",
+                    "name": "LESONA-sy-SUJET-TYPE-HG.pdf"
+                  }
+                ]
+              }
+            ]
           },
           {
             "id": "inspecteur-de-police",
-            "name": "Inspecteur de police"
+            "name": "Inspecteur de police (niveau BACC)",
+            "items": [
+              {
+                "id": "francais",
+                "name": "Français",
+                "books": [
+                  {
+                    "path": "/pdf/frs/Expression-écrite-Dissertation-Résumé-et-Application.pdf",
+                    "name": "Expression-écrite-Dissertation-Résumé-et-Application.pdf"
+                  }
+                ]
+              },
+              {
+                "id": "connaissance-general",
+                "name": "Connaissance génerale",
+                "books": [
+                  {
+                    "path": "/pdf/cg/Connaissance-générale-1.pdf",
+                    "name": "Connaissance-générale-1.pdf"
+                  }
+                ]
+              },
+              {
+                "id": "histo-geo",
+                "name": "Histoire et Géographie"
+              },
+              {
+                "id": "svt",
+                "name": "SVT"
+              }
+            ]
           }
         ]
       },
@@ -22,7 +102,38 @@
       {
         "id": "gendarme",
         "name": "Gendarme",
-        "items": []
+        "items": [
+          {
+            "id": "francais",
+            "name": "Français",
+            "books": [
+              {
+                "path": "/pdf/frs/Expression-écrite-Dissertation-Résumé-et-Application.pdf",
+                "name": "Expression-écrite-Dissertation-Résumé-et-Application.pdf"
+              }
+            ]
+          },
+          {
+            "id": "malagasy",
+            "name": "Malagasy",
+            "books": [
+              {
+                "path": "/pdf/mlg/LESONA-MALAGASY-TACD.pdf",
+                "name": "LESONA-MALAGASY-TACD.pdf"
+              }
+            ]
+          },
+          {
+            "id": "mathematiques",
+            "name": "Mathématiques",
+            "books": [
+              {
+                "path": "/pdf/maths/MATHÉMATIQUES-TERMINALE-A.pdf",
+                "name": "MATHÉMATIQUES-TERMINALE-A.pdf"
+              }
+            ]
+          }
+        ]
       },
 
       {
@@ -35,15 +146,37 @@
             "items": [
               {
                 "id": "connaissance-general",
-                "name": "Connaissance géneral (leçons)"
+                "name": "Connaissance géneral (leçons)",
+                "books": [
+                  {
+                    "path": "/pdf/cg/Connaissance-générale-1.pdf",
+                    "name": "Connaissance-générale-1.pdf"
+                  }
+                ]
               },
               {
                 "id": "ex-connaissance-general",
-                "name": "Connaissance géneral (exercices)"
+                "name": "Connaissance géneral (exercices)",
+                "books": [
+                  {
+                    "path": "/pdf/cg/Connaissance-générale-QCM.pdf",
+                    "name": "Connaissance-générale-QCM.pdf"
+                  }
+                ]
               },
               {
                 "id": "francais",
                 "name": "Français",
+                "books": [
+                  {
+                    "path": "/pdf/frs/Expression-écrite-Dissertation-Résumé-et-Application.pdf",
+                    "name": "Expression-écrite-Dissertation-Résumé-et-Application.pdf"
+                  }
+                ]
+              },
+              {
+                "id": "ex-francais",
+                "name": "Français (exercices)",
                 "books": [
                   {
                     "path": "/pdf/Français série A-C-D 2023.pdf",
@@ -74,10 +207,6 @@
                     "name": "Français série S 2023.pdf"
                   }
                 ]
-              },
-              {
-                "id": "ex-francais",
-                "name": "Français (exercices)"
               }
             ]
           },
@@ -91,7 +220,13 @@
               },
               {
                 "id": "sujet-mathematiques",
-                "name": "Mathématiques (sujet)"
+                "name": "Mathématiques (sujet)",
+                "books": [
+                  {
+                    "path": "/pdf/maths/SUJETS MATHS sy PC ENS.pdf",
+                    "name": "SUJETS MATHS sy PC ENS.pdf"
+                  }
+                ]
               },
               {
                 "id": "physique-chimie",
@@ -99,15 +234,37 @@
               },
               {
                 "id": "sujet-physique-chimie",
-                "name": "Physique Chimie (sujet)"
+                "name": "Physique Chimie (sujet)",
+                "books": [
+                  {
+                    "path": "/pdf/maths/SUJETS MATHS sy PC ENS.pdf",
+                    "name": "SUJETS MATHS sy PC ENS.pdf"
+                  }
+                ]
               },
               {
                 "id": "connaissance-general",
-                "name": "Connaissance géneral (leçons)"
+                "name": "Connaissance géneral (leçons)",
+                "books": [
+                  {
+                    "path": "/pdf/cg/Connaissance-générale-1.pdf",
+                    "name": "Connaissance-générale-1.pdf"
+                  },
+                  {
+                    "path": "/pdf/cg/Cours préparatoires Oral ENS 2021.pdf",
+                    "name": "Cours préparatoires Oral ENS 2021.pdf"
+                  }
+                ]
               },
               {
                 "id": "ex-connaissance-general",
-                "name": "Connaissance géneral (exercices)"
+                "name": "Connaissance géneral (exercices)",
+                "books": [
+                  {
+                    "path": "/pdf/cg/Connaissance-générale-QCM.pdf",
+                    "name": "Connaissance-générale-QCM.pdf"
+                  }
+                ]
               }
             ]
           },
@@ -117,7 +274,13 @@
             "items": [
               {
                 "id": "connaissance-general",
-                "name": "Connaissance géneral (leçons)"
+                "name": "Connaissance géneral (leçons)",
+                "books": [
+                  {
+                    "path": "/pdf/cg/Connaissance-générale-1.pdf",
+                    "name": "Connaissance-générale-1.pdf"
+                  }
+                ]
               },
               {
                 "id": "ex-connaissance-general",
@@ -139,7 +302,13 @@
             "items": [
               {
                 "id": "connaissance-general",
-                "name": "Connaissance géneral (leçons)"
+                "name": "Connaissance géneral (leçons)",
+                "books": [
+                  {
+                    "path": "/pdf/cg/Connaissance-générale-1.pdf",
+                    "name": "Connaissance-générale-1.pdf"
+                  }
+                ]
               },
               {
                 "id": "ex-connaissance-general",
@@ -161,7 +330,13 @@
             "items": [
               {
                 "id": "connaissance-general",
-                "name": "Connaissance géneral (leçons)"
+                "name": "Connaissance géneral (leçons)",
+                "books": [
+                  {
+                    "path": "/pdf/cg/Connaissance-générale-1.pdf",
+                    "name": "Connaissance-générale-1.pdf"
+                  }
+                ]
               },
               {
                 "id": "ex-connaissance-general",
@@ -190,7 +365,13 @@
             "items": [
               {
                 "id": "francais",
-                "name": "Français (leçon)"
+                "name": "Français (leçon)",
+                "books": [
+                  {
+                    "path": "/pdf/frs/Expression-écrite-Dissertation-Résumé-et-Application.pdf",
+                    "name": "Expression-écrite-Dissertation-Résumé-et-Application.pdf"
+                  }
+                ]
               },
               {
                 "id": "sujet-francais",
@@ -208,7 +389,13 @@
             "items": [
               {
                 "id": "francais",
-                "name": "Français (leçon)"
+                "name": "Français (leçon)",
+                "books": [
+                  {
+                    "path": "/pdf/frs/Expression-écrite-Dissertation-Résumé-et-Application.pdf",
+                    "name": "Expression-écrite-Dissertation-Résumé-et-Application.pdf"
+                  }
+                ]
               },
               {
                 "id": "sujet-francais",
@@ -248,19 +435,37 @@
           {
             "id": "ia",
             "name": "IA",
-            "items": []
+            "books": [
+              {
+                "path": "/pdf/cg/Connaissance-générale-QCM.pdf",
+                "name": "Connaissance-générale-QCM.pdf"
+              },
+              {
+                "path": "/pdf/cg/Connaissance-générale-1.pdf",
+                "name": "Connaissance-générale-1.pdf"
+              }
+            ]
           },
           {
             "id": "general",
             "name": "Générale",
-            "items": []
+            "books": [
+              {
+                "path": "/pdf/ENS ENI AGRO EMIT.pdf",
+                "name": "ENS ENI AGRO EMIT.pdf"
+              },
+              {
+                "path": "/pdf/sujet-ENI-tout-.pdf",
+                "name": "sujet-ENI-tout-.pdf"
+              }
+            ]
           }
         ]
       },
 
       {
-        "id": "eg-ss-mcj",
-        "name": "EG, SS et MCJ",
+        "id": "eg-ss-mci",
+        "name": "EG, SS et MCI",
         "items": [
           {
             "id": "eg",
@@ -273,8 +478,8 @@
             "items": []
           },
           {
-            "id": "mjc",
-            "name": "MJC",
+            "id": "mci",
+            "name": "MCI",
             "items": []
           }
         ]
@@ -314,7 +519,18 @@
           {
             "id": "agent-penitentiaire",
             "name": "Agent pénitentiaire",
-            "items": []
+            "items": [
+              {
+                "id": "histo-geo",
+                "name": "Histoire et Géographie",
+                "books": [
+                  {
+                    "path": "/pdf/penitentiaire/LESONA-SUJET-TYPE-HG.pdf",
+                    "name": "LESONA-SUJET-TYPE-HG.pdf"
+                  }
+                ]
+              }
+            ]
           },
           {
             "id": "encadreur",
@@ -350,7 +566,16 @@
                   {
                     "id": "sujet-ex-mathematiques-financières",
                     "name": "Mathématiques Financières (sujet d'examen)",
-                    "books": []
+                    "books": [
+                      {
+                        "path": "/pdf/maths/Mathematiques-financières-1.pdf",
+                        "name": "Mathematiques-financières-1.pdf"
+                      },
+                      {
+                        "path": "/pdf/maths/Mathematiques-financières-2.pdf",
+                        "name": "Mathematiques-financières-2.pdf"
+                      }
+                    ]
                   },
                   {
                     "id": "sujet-ex-economie-generale",
@@ -478,6 +703,24 @@
           {
             "id": "vocabulaires",
             "name": "Vocabulaires"
+          },
+          {
+            "id": "videos",
+            "name": "Videos",
+            "videos": [
+              {
+                "path": "/videos/groupe-fifanampiana.mp4",
+                "name": "groupe-fifanampiana.mp4"
+              },
+              {
+                "path": "/videos/1a6d42075a4e1e2822c571886d6aadb2.mp4",
+                "name": "1a6d42075a4e1e2822c571886d6aadb2.mp4"
+              },
+              {
+                "path": "/videos/2024-10-30-192642625.mp4",
+                "name": "2024-10-30-192642625.mp4"
+              }
+            ]
           }
         ]
       },
@@ -533,17 +776,184 @@
       {
         "id": "terminal-a",
         "name": "Terminal A1 et A2",
-        "items": []
+        "items": [
+          {
+            "id": "malagasy",
+            "name": "Malagasy",
+            "books": [
+              {
+                "path": "/pdf/mlg/LESONA-MALAGASY-TERMINALE.pdf",
+                "name": "LESONA-MALAGASY-TERMINALE.pdf"
+              },
+              {
+                "path": "/pdf/mlg/LESONA-MALAGASY-TACD.pdf",
+                "name": "LESONA-MALAGASY-TACD.pdf"
+              }
+            ]
+          },
+          {
+            "id": "mathematiques",
+            "name": "Mathématiques",
+            "books": [
+              {
+                "path": "/pdf/maths/MATHÉMATIQUES-TERMINALE-A.pdf",
+                "name": "MATHÉMATIQUES-TERMINALE-A.pdf"
+              }
+            ]
+          },
+          {
+            "id": "francais",
+            "name": "Français",
+            "books": []
+          },
+          {
+            "id": "svt",
+            "name": "SVT",
+            "books": []
+          },
+          {
+            "id": "physiques",
+            "name": "Physiques",
+            "books": []
+          },
+          {
+            "id": "anglais",
+            "name": "Anglais",
+            "books": []
+          }
+        ]
       },
       {
         "id": "serie-dc",
         "name": "Serie D et C",
-        "items": []
+        "items": [
+          {
+            "id": "malagasy",
+            "name": "Malagasy",
+            "books": [
+              {
+                "path": "/pdf/mlg/LESONA-MALAGASY-TERMINALE.pdf",
+                "name": "LESONA-MALAGASY-TERMINALE.pdf"
+              },
+              {
+                "path": "/pdf/mlg/LESONA-MALAGASY-TACD.pdf",
+                "name": "LESONA-MALAGASY-TACD.pdf"
+              }
+            ]
+          },
+          {
+            "id": "mathematiques",
+            "name": "Mathématiques",
+            "books": [
+              {
+                "path": "/pdf/maths/MATHÉMATIQUES-TERMINALE-A.pdf",
+                "name": "MATHÉMATIQUES-TERMINALE-A.pdf"
+              }
+            ]
+          },
+          {
+            "id": "francais",
+            "name": "Français",
+            "books": []
+          },
+          {
+            "id": "svt",
+            "name": "SVT",
+            "books": []
+          },
+          {
+            "id": "physiques",
+            "name": "Physiques",
+            "books": []
+          },
+          {
+            "id": "anglais",
+            "name": "Anglais",
+            "books": []
+          }
+        ]
       },
       {
         "id": "serie-sl",
         "name": "Serie S et L",
-        "items": []
+        "items": [
+          {
+            "id": "malagasy",
+            "name": "Malagasy",
+            "books": [
+              {
+                "path": "/pdf/mlg/LESONA-MALAGASY-TERMINALE.pdf",
+                "name": "LESONA-MALAGASY-TERMINALE.pdf"
+              }
+            ]
+          },
+          {
+            "id": "mathematiques",
+            "name": "Mathématiques",
+            "books": [
+              {
+                "path": "/pdf/maths/MATHÉMATIQUES-TERMINALE-A.pdf",
+                "name": "MATHÉMATIQUES-TERMINALE-A.pdf"
+              }
+            ]
+          },
+          {
+            "id": "francais",
+            "name": "Français",
+            "books": []
+          },
+          {
+            "id": "svt",
+            "name": "SVT",
+            "books": []
+          },
+          {
+            "id": "physiques",
+            "name": "Physiques",
+            "books": []
+          },
+          {
+            "id": "anglais",
+            "name": "Anglais",
+            "books": []
+          }
+        ]
+      },
+      {
+        "id": "terminal-ose",
+        "name": "Terminal OSE",
+        "items": [
+          {
+            "id": "mathematiques-financieres",
+            "name": "Mathématiques Financières",
+            "books": []
+          },
+          {
+            "id": "mathematiques-generales",
+            "name": "Mathématiques Générales",
+            "books": []
+          },
+          {
+            "id": "malagasy",
+            "name": "Malagasy",
+            "books": []
+          },
+          {
+            "id": "francais",
+            "name": "Français",
+            "books": []
+          },
+          {
+            "id": "histo-geo",
+            "name": "Histoire et Géographie",
+            "books": []
+          },
+          {
+            "id": "anglais",
+            "name": "Anglais",
+            "books": []
+          }
+        ]
       }
     ]
   },
@@ -591,6 +1001,25 @@
         "id": "fomba-ahazoana-vola-sur-fb",
         "name": "Fomba ahazoana vola sur Facebook",
         "items": []
+      }
+    ]
+  },
+
+  {
+    "id": "videos",
+    "name": "Videos",
+    "videos": [
+      {
+        "path": "/videos/groupe-fifanampiana.mp4",
+        "name": "groupe-fifanampiana.mp4"
+      },
+      {
+        "path": "/videos/1a6d42075a4e1e2822c571886d6aadb2.mp4",
+        "name": "1a6d42075a4e1e2822c571886d6aadb2.mp4"
+      },
+      {
+        "path": "/videos/2024-10-30-192642625.mp4",
+        "name": "2024-10-30-192642625.mp4"
       }
     ]
   }
