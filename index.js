@@ -758,6 +758,16 @@ app.get('/api/categories', authenticateToken, async (req, res) => {
   const branches = await loadJSON("branches.json");
   res.json(branches);
 });
+app.get('/api/file/:filename', (req, res) => {
+  const filename = req.params.filename;
+  const filepath = path.join(process.cwd(), "data", filename);
+
+  if (fs.existsSync(filepath)) {
+    res.sendFile(filepath);
+  } else {
+    res.status(404).send("File Not Found");
+  }
+})
 app.post('/api/questions/add', authenticateToken, async (req, res) => {
   const qDat = req.body;
   console.log("req body", req.body);
