@@ -1022,5 +1022,17 @@
         "name": "2024-10-30-192642625.mp4"
       }
     ]
+  },
+
+  {
+    "id": "test",
+    "name": "Teste",
+    "items": [],
+    "books": [
+      {
+        "path": "/file/ENS ENI AGRO EMIT.pdf",
+        "name": "ENS ENI AGRO EMIT.pdf"
+      }
+    ]
   }
 ]
