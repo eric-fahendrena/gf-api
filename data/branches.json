@@ -29,12 +29,8 @@
                 ],
                 "books": [
                   {
-                    "path": "/file/LEÇON-FRANÇAIS.pdf",
+                    "path": "/file/LEÇON-FRANÇAIS_h98znz.pdf",
                     "name": "LEÇON-FRANÇAIS.pdf"
-                  },
-                  {
-                    "path": "/file/Expression-écrite-Dissertation-Résumé-et-Application.pdf",
-                    "name": "Expression-écrite-Dissertation-Résumé-et-Application.pdf"
                   }
                 ]
               },
@@ -43,47 +39,35 @@
                 "name": "Français (exercices)",
                 "books": [
                   {
-                    "path": "/file/SUJET-TYPE-FRANÇAIS.pdf",
-                    "name": "SUJET-TYPE-FRANÇAIS.pdf"
-                  },
-                  {
-                    "path": "/file/bac2013_Français_A-C-D-1.pdf",
+                    "path": "/file/bac2013_Français_A-C-D-1_rf7cja.pdf",
                     "name": "bac2013_Français_A-C-D-1.pdf"
                   },
                   {
-                    "path": "/file/bac2014_Français_ACD-1.pdf",
+                    "path": "/file/bac2014_Français_ACD-1_toctlc.pdf",
                     "name": "bac2014_Français_ACD-1.pdf"
                   },
                   {
-                    "path": "/file/ACD_2015_francais (1).pdf",
+                    "path": "/file/ACD_2015_francais_1_iwxe81.pdf",
                     "name": "ACD_2015_francais (1).pdf"
                   },
                   {
-                    "path": "/file/ACD2016_francais-1.pdf",
+                    "path": "/file/ACD2016_francais-1_l1dujk.pdf",
                     "name": "ACD2016_francais-1.pdf"
                   },
                   {
-                    "path": "/file/ACD_2015_francais (2).pdf",
+                    "path": "/file/ACD_2015_francais_2_lz8gx1.pdf",
                     "name": "ACD_2015_francais (2).pdf"
                   },
                   {
-                    "path": "/file/bac2017_francais_ACD-1.pdf",
+                    "path": "/file/bac2017_francais_ACD-1_f7artr.pdf",
                     "name": "bac2017_francais_ACD-1.pdf"
                   },
                   {
-                    "path": "/file/FRANCAIS-L-1.pdf",
-                    "name": "FRANCAIS-L-1.pdf"
-                  },
-                  {
-                    "path": "/file/FRANCAIS-A.pdf",
+                    "path": "/file/FRANCAIS-A_fqnwde.pdf",
                     "name": "FRANCAIS-A.pdf"
                   },
                   {
-                    "path": "/file/Français-série-S-2023.pdf",
-                    "name": "Français-série-S-2023.pdf"
-                  },
-                  {
-                    "path": "/file/FRANCAIS-D-1 (1).pdf",
+                    "path": "/file/FRANCAIS-D-1_fdbr3m.pdf",
                     "name": "FRANCAIS-D-1 (1).pdf"
                   }
                 ]
@@ -103,7 +87,7 @@
                 "name": "Connaissance génerale (exercices)",
                 "books": [
                   {
-                    "path": "/file/Connaissance-générale-QCM.pdf",
+                    "path": "/file/Connaissance-générale-QCM_rdlblm.pdf",
                     "name": "Connaissance-générale-QCM.pdf"
                   }
                 ]
@@ -113,7 +97,7 @@
                 "name": "Histoire et Géographie",
                 "books": [
                   {
-                    "path": "/file/LESONA-sy-SUJET-TYPE-HG.pdf",
+                    "path": "/file/LESONA-sy-SUJET-TYPE-HG_sngykw.pdf",
                     "name": "LESONA-sy-SUJET-TYPE-HG.pdf"
                   }
                 ]
@@ -139,29 +123,19 @@
                     ]
                   }
                 ],
-                "books": [
-                  {
-                    "path": "/file/Expression-écrite-Dissertation-Résumé-et-Application.pdf",
-                    "name": "Expression-écrite-Dissertation-Résumé-et-Application.pdf"
-                  }
-                ]
+                "books": []
               },
               {
                 "id": "connaissance-general",
                 "name": "Connaissance génerale",
-                "books": [
-                  {
-                    "path": "/file/Connaissance-générale-1.pdf",
-                    "name": "Connaissance-générale-1.pdf"
-                  }
-                ]
+                "books": []
               },
               {
                 "id": "histo-geo",
                 "name": "Histoire et Géographie (leçon)",
                 "books": [
                   {
-                    "path": "/file/LESONA-SUJET-TYPE-HG.pdf",
+                    "path": "/file/LESONA-SUJET-TYPE-HG_vyckqu.pdf",
                     "name": "LESONA-SUJET-TYPE-HG.pdf"
                   }
                 ]
@@ -171,31 +145,31 @@
                 "name": "Histoire et Géographie (exercices)",
                 "books": [
                   {
-                    "path": "/file/bac2013_HIstoGeo_A.pdf",
+                    "path": "/file/bac2013_HIstoGeo_A_tdpe3w.pdf",
                     "name": "bac2013_HIstoGeo_A.pdf"
                   },
                   {
-                    "path": "/file/bac2014_Histo-Geo_A.pdf",
+                    "path": "/file/bac2014_Histo-Geo_A_ipjjhc.pdf",
                     "name": "bac2014_Histo-Geo_A.pdf"
                   },
                   {
-                    "path": "/file/A_2015_histogeo.pdf",
+                    "path": "/file/A_2015_histogeo_ql9ixj.pdf",
                     "name": "A_2015_histogeo.pdf"
                   },
                   {
-                    "path": "/file/A2016_histogeo.pdf",
+                    "path": "/file/A2016_histogeo_h0qoxs.pdf",
                     "name": "A2016_histogeo.pdf"
                   },
                   {
-                    "path": "/file/bac2017_histogeo_A.pdf",
+                    "path": "/file/bac2017_histogeo_A_o9kmvf.pdf",
                     "name": "bac2017_histogeo_A.pdf"
                   },
                   {
-                    "path": "/file/Histo-Géo-série-A-2023.pdf",
+                    "path": "/file/Histo-Géo-série-A-2023_mm2b8i.pdf",
                     "name": "Histo-Géo-série-A-2023.pdf"
                   },
                   {
-                    "path": "/file/Histo-Géo-série-L-2023.pdf",
+                    "path": "/file/Histo-Géo-série-L-2023_hdst9p.pdf",
                     "name": "Histo-Géo-série-L-2023.pdf"
                   }
                 ]
@@ -241,7 +215,7 @@
             "name": "Malagasy",
             "books": [
               {
-                "path": "/file/LESONA-MALAGASY-TACD.pdf",
+                "path": "/file/LESONA-MALAGASY-TACD_y15ygf.pdf",
                 "name": "LESONA-MALAGASY-TACD.pdf"
               }
             ]
@@ -251,7 +225,7 @@
             "name": "Mathématiques",
             "books": [
               {
-                "path": "/file/MATHÉMATIQUES-TERMINALE-A.pdf",
+                "path": "/file/MATHÉMATIQUES-TERMINALE-A_agvhp1.pdf",
                 "name": "MATHÉMATIQUES-TERMINALE-A.pdf"
               }
             ]
@@ -270,23 +244,18 @@
               {
                 "id": "connaissance-general",
                 "name": "Connaissance géneral (leçons)",
-                "books": [
-                  {
-                    "path": "/file/Connaissance-générale-1.pdf",
-                    "name": "Connaissance-générale-1.pdf"
-                  }
-                ]
+                "books": []
               },
               {
                 "id": "ex-connaissance-general",
                 "name": "Connaissance géneral (exercices)",
                 "books": [
                   {
-                    "path": "/file/Connaissance-générale-QCM.pdf",
+                    "path": "/file/Connaissance-générale-QCM_rdlblm.pdf",
                     "name": "Connaissance-générale-QCM.pdf"
                   },
                   {
-                    "path": "/file/CONNAISSANCE-GENERAL.pdf",
+                    "path": "/file/CONNAISSANCE-GENERAL_tf5ytg.pdf",
                     "name": "CONNAISSANCE-GENERAL.pdf"
                   }
                 ]
@@ -304,7 +273,7 @@
                     "name": "Tableau-de-conjugaison.pdf"
                   },
                   {
-                    "path": "/file/LEÇON-FRANÇAIS-1.pdf",
+                    "path": "/file/LEÇON-FRANÇAIS-1_hk74lt.pdf",
                     "name": "LEÇON-FRANÇAIS-1.pdf"
                   }
                 ]
@@ -314,43 +283,35 @@
                 "name": "Français (exercices)",
                 "books": [
                   {
-                    "path": "/file/bac2013_Français_A-C-D-1.pdf",
+                    "path": "/file/bac2013_Français_A-C-D-1_rf7cja.pdf",
                     "name": "bac2013_Français_A-C-D-1.pdf"
                   },
                   {
-                    "path": "/file/bac2014_Français_ACD-1.pdf",
+                    "path": "/file/bac2014_Français_ACD-1_toctlc.pdf",
                     "name": "bac2014_Français_ACD-1.pdf"
                   },
                   {
-                    "path": "/file/ACD_2015_francais (1).pdf",
+                    "path": "/file/ACD_2015_francais_1_iwxe81.pdf",
                     "name": "ACD_2015_francais (1).pdf"
                   },
                   {
-                    "path": "/file/ACD2016_francais-1.pdf",
+                    "path": "/file/ACD2016_francais-1_l1dujk.pdf",
                     "name": "ACD2016_francais-1.pdf"
                   },
                   {
-                    "path": "/file/ACD_2015_francais (2).pdf",
+                    "path": "/file/ACD_2015_francais_2_lz8gx1.pdf",
                     "name": "ACD_2015_francais (2).pdf"
                   },
                   {
-                    "path": "/file/bac2017_francais_ACD-1.pdf",
+                    "path": "/file/bac2017_francais_ACD-1_f7artr.pdf",
                     "name": "bac2017_francais_ACD-1.pdf"
                   },
                   {
-                    "path": "/file/FRANCAIS-L-1.pdf",
-                    "name": "FRANCAIS-L-1.pdf"
-                  },
-                  {
-                    "path": "/file/FRANCAIS-A.pdf",
+                    "path": "/file/FRANCAIS-A_fqnwde.pdf",
                     "name": "FRANCAIS-A.pdf"
                   },
                   {
-                    "path": "/file/Français-série-S-2023.pdf",
-                    "name": "Français-série-S-2023.pdf"
-                  },
-                  {
-                    "path": "/file/FRANCAIS-D-1 (1).pdf",
+                    "path": "/file/FRANCAIS-D-1_fdbr3m.pdf",
                     "name": "FRANCAIS-D-1 (1).pdf"
                   }
                 ]
@@ -368,12 +329,7 @@
               {
                 "id": "sujet-mathematiques",
                 "name": "Mathématiques (sujet)",
-                "books": [
-                  {
-                    "path": "/file/SUJETS MATHS sy PC ENS.pdf",
-                    "name": "SUJETS MATHS sy PC ENS.pdf"
-                  }
-                ]
+                "books": []
               },
               {
                 "id": "physique-chimie",
@@ -382,23 +338,14 @@
               {
                 "id": "sujet-physique-chimie",
                 "name": "Physique Chimie (sujet)",
-                "books": [
-                  {
-                    "path": "/file/SUJETS MATHS sy PC ENS.pdf",
-                    "name": "SUJETS MATHS sy PC ENS.pdf"
-                  }
-                ]
+                "books": []
               },
               {
                 "id": "connaissance-general",
                 "name": "Connaissance géneral (leçons)",
                 "books": [
                   {
-                    "path": "/file/Connaissance-générale-1.pdf",
-                    "name": "Connaissance-générale-1.pdf"
-                  },
-                  {
-                    "path": "/file/Cours préparatoires Oral ENS 2021.pdf",
+                    "path": "/file/Cours préparatoires Oral ENS 2021_evb2sp.pdf",
                     "name": "Cours préparatoires Oral ENS 2021.pdf"
                   }
                 ]
@@ -408,11 +355,11 @@
                 "name": "Connaissance géneral (exercices)",
                 "books": [
                   {
-                    "path": "/file/Connaissance-générale-QCM.pdf",
+                    "path": "/file/Connaissance-générale-QCM_rdlblm.pdf",
                     "name": "Connaissance-générale-QCM.pdf"
                   },
                   {
-                    "path": "/file/CONNAISSANCE-GENERAL.pdf",
+                    "path": "/file/CONNAISSANCE-GENERAL_tf5ytg.pdf",
                     "name": "CONNAISSANCE-GENERAL.pdf"
                   }
                 ]
@@ -426,12 +373,7 @@
               {
                 "id": "connaissance-general",
                 "name": "Connaissance géneral (leçons)",
-                "books": [
-                  {
-                    "path": "/file/Connaissance-générale-1.pdf",
-                    "name": "Connaissance-générale-1.pdf"
-                  }
-                ]
+                "books": []
               },
               {
                 "id": "ex-connaissance-general",
@@ -442,15 +384,11 @@
                 "name": "Français (leçon)",
                 "books": [
                   {
-                    "path": "/file/Expression-écrite-Dissertation-Résumé-et-Application.pdf",
-                    "name": "Expression-écrite-Dissertation-Résumé-et-Application.pdf"
-                  },
-                  {
                     "path": "/file/Tableau-de-conjugaison_k0nmiq.pdf",
                     "name": "Tableau-de-conjugaison.pdf"
                   },
                   {
-                    "path": "/file/LEÇON-FRANÇAIS-1.pdf",
+                    "path": "/file/LEÇON-FRANÇAIS-1_hk74lt.pdf",
                     "name": "LEÇON-FRANÇAIS-1.pdf"
                   }
                 ]
@@ -460,47 +398,35 @@
                 "name": "Français (exercices)",
                 "books": [
                   {
-                    "path": "/file/SUJET-TYPE-FRANÇAIS.pdf",
-                    "name": "SUJET-TYPE-FRANÇAIS.pdf"
-                  },
-                  {
-                    "path": "/file/bac2013_Français_A-C-D-1.pdf",
+                    "path": "/file/bac2013_Français_A-C-D-1_rf7cja.pdf",
                     "name": "bac2013_Français_A-C-D-1.pdf"
                   },
                   {
-                    "path": "/file/bac2014_Français_ACD-1.pdf",
+                    "path": "/file/bac2014_Français_ACD-1_toctlc.pdf",
                     "name": "bac2014_Français_ACD-1.pdf"
                   },
                   {
-                    "path": "/file/ACD_2015_francais (1).pdf",
+                    "path": "/file/ACD_2015_francais_1_iwxe81.pdf",
                     "name": "ACD_2015_francais (1).pdf"
                   },
                   {
-                    "path": "/file/ACD2016_francais-1.pdf",
+                    "path": "/file/ACD2016_francais-1_l1dujk.pdf",
                     "name": "ACD2016_francais-1.pdf"
                   },
                   {
-                    "path": "/file/ACD_2015_francais (2).pdf",
+                    "path": "/file/ACD_2015_francais_2_lz8gx1.pdf",
                     "name": "ACD_2015_francais (2).pdf"
                   },
                   {
-                    "path": "/file/bac2017_francais_ACD-1.pdf",
+                    "path": "/file/bac2017_francais_ACD-1_f7artr.pdf",
                     "name": "bac2017_francais_ACD-1.pdf"
                   },
                   {
-                    "path": "/file/FRANCAIS-L-1.pdf",
-                    "name": "FRANCAIS-L-1.pdf"
-                  },
-                  {
-                    "path": "/file/FRANCAIS-A.pdf",
+                    "path": "/file/FRANCAIS-A_fqnwde.pdf",
                     "name": "FRANCAIS-A.pdf"
                   },
                   {
-                    "path": "/file/Français-série-S-2023.pdf",
-                    "name": "Français-série-S-2023.pdf"
-                  },
-                  {
-                    "path": "/file/FRANCAIS-D-1 (1).pdf",
+                    "path": "/file/FRANCAIS-D-1_fdbr3m.pdf",
                     "name": "FRANCAIS-D-1 (1).pdf"
                   }
                 ]
@@ -526,7 +452,7 @@
                 "name": "Connaissance géneral (exercices)",
                 "books": [
                   {
-                    "path": "/file/CONNAISSANCE-GENERAL.pdf",
+                    "path": "/file/CONNAISSANCE-GENERAL_tf5ytg.pdf",
                     "name": "CONNAISSANCE-GENERAL.pdf"
                   }
                 ]
@@ -536,7 +462,7 @@
                 "name": "Histoire et Géographie (leçon)",
                 "books": [
                   {
-                    "path": "/file/LESONA-sy-SUJET-TYPE-HG-1.pdf",
+                    "path": "/file/LESONA-sy-SUJET-TYPE-HG-1_bajar7.pdf",
                     "name": "LESONA-sy-SUJET-TYPE-HG-1.pdf"
                   }
                 ]
@@ -546,31 +472,31 @@
                 "name": "Histoire et Géographie (exercices)",
                 "books": [
                   {
-                    "path": "/file/bac2013_HIstoGeo_A.pdf",
+                    "path": "/file/bac2013_HIstoGeo_A_tdpe3w.pdf",
                     "name": "bac2013_HIstoGeo_A.pdf"
                   },
                   {
-                    "path": "/file/bac2014_Histo-Geo_A.pdf",
+                    "path": "/file/bac2014_Histo-Geo_A_ipjjhc.pdf",
                     "name": "bac2014_Histo-Geo_A.pdf"
                   },
                   {
-                    "path": "/file/A_2015_histogeo.pdf",
+                    "path": "/file/A_2015_histogeo_ql9ixj.pdf",
                     "name": "A_2015_histogeo.pdf"
                   },
                   {
-                    "path": "/file/A2016_histogeo.pdf",
+                    "path": "/file/A2016_histogeo_h0qoxs.pdf",
                     "name": "A2016_histogeo.pdf"
                   },
                   {
-                    "path": "/file/bac2017_histogeo_A.pdf",
+                    "path": "/file/bac2017_histogeo_A_o9kmvf.pdf",
                     "name": "bac2017_histogeo_A.pdf"
                   },
                   {
-                    "path": "/file/Histo-Géo-série-A-2023.pdf",
+                    "path": "/file/Histo-Géo-série-A-2023_mm2b8i.pdf",
                     "name": "Histo-Géo-série-A-2023.pdf"
                   },
                   {
-                    "path": "/file/Histo-Géo-série-L-2023.pdf",
+                    "path": "/file/Histo-Géo-série-L-2023_hdst9p.pdf",
                     "name": "Histo-Géo-série-L-2023.pdf"
                   }
                 ]
@@ -584,19 +510,14 @@
               {
                 "id": "connaissance-general",
                 "name": "Connaissance géneral (leçons)",
-                "books": [
-                  {
-                    "path": "/file/Connaissance-générale-1.pdf",
-                    "name": "Connaissance-générale-1.pdf"
-                  }
-                ]
+                "books": []
               },
               {
                 "id": "ex-connaissance-general",
                 "name": "Connaissance géneral (exercices)",
                 "books": [
                   {
-                    "path": "/file/CONNAISSANCE-GENERAL.pdf",
+                    "path": "/file/CONNAISSANCE-GENERAL_tf5ytg.pdf",
                     "name": "CONNAISSANCE-GENERAL.pdf"
                   }
                 ]
@@ -606,55 +527,55 @@
                 "name": "SVT (sujets)",
                 "books": [
                   {
-                    "path": "/file/bac2013_svt_D_2013.pdf",
+                    "path": "/file/bac2013_svt_D_2013_lktky0.pdf",
                     "name": "bac2013_svt_D_2013.pdf"
                   },
                   {
-                    "path": "/file/SVT_bacc_D_2014.pdf",
+                    "path": "/file/SVT_bacc_D_2014_rtpkh2.pdf",
                     "name": "SVT_bacc_D_2014.pdf"
                   },
                   {
-                    "path": "/file/D_2015_svt.pdf",
+                    "path": "/file/D_2015_svt_e2tmaf.pdf",
                     "name": "D_2015_svt.pdf"
                   },
                   {
-                    "path": "/file/D2016_SVT.pdf",
+                    "path": "/file/D2016_SVT_wuejot.pdf",
                     "name": "D2016_SVT.pdf"
                   },
                   {
-                    "path": "/file/bac2017_svt_D.pdf",
+                    "path": "/file/bac2017_svt_D_oqqeli.pdf",
                     "name": "bac2017_svt_D.pdf"
                   },
                   {
-                    "path": "/file/Sciences-de-la-vie-et-de-la-Terre-série-D-2018-énoncé.pdf",
+                    "path": "/file/Sciences-de-la-vie-et-de-la-Terre-série-D-2018-énoncé_t9uqwv.pdf",
                     "name": "Sciences-de-la-vie-et-de-la-Terre-série-D-2018-énoncé.pdf"
                   },
                   {
-                    "path": "/file/SERIE-D.pdf",
+                    "path": "/file/SERIE-D_ppszak.pdf",
                     "name": "SERIE-D.pdf"
                   },
                   {
-                    "path": "/file/sujet-bacc-D-2021.pdf",
+                    "path": "/file/sujet-bacc-D-2021_sctmfw.pdf",
                     "name": "sujet-bacc-D-2021.pdf"
                   },
                   {
-                    "path": "/file/SVT_D-2022.pdf",
+                    "path": "/file/SVT_D-2022_bquaql.pdf",
                     "name": "SVT_D-2022.pdf"
                   },
                   {
-                    "path": "/file/SVT-serie-D-2023.pdf",
+                    "path": "/file/SVT-serie-D-2023_t6w4zq.pdf",
                     "name": "SVT-serie-D-2023.pdf"
                   },
                   {
-                    "path": "/file/sujet-bacc-S-2021.pdf",
+                    "path": "/file/sujet-bacc-S-2021_scypsg.pdf",
                     "name": "sujet-bacc-S-2021.pdf"
                   },
                   {
-                    "path": "/file/SVT_S-2022.pdf",
+                    "path": "/file/SVT_S-2022_dwhhry.pdf",
                     "name": "SVT_S-2022.pdf"
                   },
                   {
-                    "path": "/file/SVT-serie-S-2023.pdf",
+                    "path": "/file/SVT-serie-S-2023_wf2f7k.pdf",
                     "name": "SVT-serie-S-2023.pdf"
                   }
                 ]
@@ -664,11 +585,7 @@
                 "name": "SVT (leçons)",
                 "books": [
                   {
-                    "path": "/file/Lesson-SVT-terminal-D.pdf",
-                    "name": "Lesson-SVT-terminal-D.pdf"
-                  },
-                  {
-                    "path": "/file/SVT-Leçon-et-Résumé-Terminal.pdf",
+                    "path": "/file/SVT-Leçon-et-Résumé-Terminal_rx9smt.pdf",
                     "name": "SVT-Leçon-et-Résumé-Terminal.pdf"
                   }
                 ]
@@ -689,12 +606,7 @@
               {
                 "id": "francais",
                 "name": "Français (leçon)",
-                "books": [
-                  {
-                    "path": "/file/Expression-écrite-Dissertation-Résumé-et-Application.pdf",
-                    "name": "Expression-écrite-Dissertation-Résumé-et-Application.pdf"
-                  }
-                ]
+                "books": []
               },
               {
                 "id": "sujet-francais",
@@ -713,12 +625,7 @@
               {
                 "id": "francais",
                 "name": "Français (leçon)",
-                "books": [
-                  {
-                    "path": "/file/Expression-écrite-Dissertation-Résumé-et-Application.pdf",
-                    "name": "Expression-écrite-Dissertation-Résumé-et-Application.pdf"
-                  }
-                ]
+                "books": []
               },
               {
                 "id": "sujet-francais",
@@ -764,7 +671,7 @@
                 "name": "Connaissance géneral (exercices)",
                 "books": [
                   {
-                    "path": "/file/CONNAISSANCE-GENERAL.pdf",
+                    "path": "/file/CONNAISSANCE-GENERAL_tf5ytg.pdf",
                     "name": "CONNAISSANCE-GENERAL.pdf"
                   }
                 ]
@@ -774,12 +681,8 @@
                 "name": "Connaissance géneral (leçon)",
                 "books": [
                   {
-                    "path": "/file/Connaissance-générale-QCM.pdf",
+                    "path": "/file/Connaissance-générale-QCM_rdlblm.pdf",
                     "name": "Connaissance-générale-QCM.pdf"
-                  },
-                  {
-                    "path": "/file/Connaissance-générale-1.pdf",
-                    "name": "Connaissance-générale-1.pdf"
                   }
                 ]
               }
@@ -788,16 +691,7 @@
           {
             "id": "general",
             "name": "Générale",
-            "books": [
-              {
-                "path": "/file/ENS ENI AGRO EMIT.pdf",
-                "name": "ENS ENI AGRO EMIT.pdf"
-              },
-              {
-                "path": "/file/sujet-ENI-tout-.pdf",
-                "name": "sujet-ENI-tout-.pdf"
-              }
-            ]
+            "books": []
           }
         ]
       },
@@ -864,7 +758,7 @@
                 "name": "Histoire et Géographie (leçon)",
                 "books": [
                   {
-                    "path": "/file/penitentiaire/LESONA-SUJET-TYPE-HG.pdf",
+                    "path": "/file/LESONA-SUJET-TYPE-HG_vyckqu.pdf",
                     "name": "LESONA-SUJET-TYPE-HG.pdf"
                   }
                 ]
@@ -874,31 +768,31 @@
                 "name": "Histoire et Géographie (exercices)",
                 "books": [
                   {
-                    "path": "/file/bac2013_HIstoGeo_A.pdf",
+                    "path": "/file/bac2013_HIstoGeo_A_tdpe3w.pdf",
                     "name": "bac2013_HIstoGeo_A.pdf"
                   },
                   {
-                    "path": "/file/bac2014_Histo-Geo_A.pdf",
+                    "path": "/file/bac2014_Histo-Geo_A_ipjjhc.pdf",
                     "name": "bac2014_Histo-Geo_A.pdf"
                   },
                   {
-                    "path": "/file/A_2015_histogeo.pdf",
+                    "path": "/file/A_2015_histogeo_ql9ixj.pdf",
                     "name": "A_2015_histogeo.pdf"
                   },
                   {
-                    "path": "/file/A2016_histogeo.pdf",
+                    "path": "/file/A2016_histogeo_h0qoxs.pdf",
                     "name": "A2016_histogeo.pdf"
                   },
                   {
-                    "path": "/file/bac2017_histogeo_A.pdf",
+                    "path": "/file/bac2017_histogeo_A_o9kmvf.pdf",
                     "name": "bac2017_histogeo_A.pdf"
                   },
                   {
-                    "path": "/file/Histo-Géo-série-A-2023.pdf",
+                    "path": "/file/Histo-Géo-série-A-2023_mm2b8i.pdf",
                     "name": "Histo-Géo-série-A-2023.pdf"
                   },
                   {
-                    "path": "/file/Histo-Géo-série-L-2023.pdf",
+                    "path": "/file/Histo-Géo-série-L-2023_hdst9p.pdf",
                     "name": "Histo-Géo-série-L-2023.pdf"
                   }
                 ]
@@ -941,12 +835,8 @@
                     "name": "Mathématiques Financières (sujet d'examen)",
                     "books": [
                       {
-                        "path": "/file/Mathematiques-financières-1.pdf",
+                        "path": "/file/Mathematiques-financières-1_inilfy.pdf",
                         "name": "Mathematiques-financières-1.pdf"
-                      },
-                      {
-                        "path": "/file/Mathematiques-financières-2.pdf",
-                        "name": "Mathematiques-financières-2.pdf"
                       }
                     ]
                   },
@@ -1084,11 +974,11 @@
             "name": "Vocabulaires",
             "books": [
               {
-                "path": "/file/Vocabulaire-1000-mots-utilisés-en-français.pdf",
+                "path": "/file/Vocabulaire-1000-mots-utilisés-en-français_sjddfl.pdf",
                 "name": "Vocabulaire-1000-mots-utilisés-en-français.pdf"
               },
               {
-                "path": "/file/Vocabulaire-560-mots-les-plus-fréquents-en-français.pdf",
+                "path": "/file/Vocabulaire-560-mots-les-plus-fréquents-en-français_alerps.pdf",
                 "name": "Vocabulaire-560-mots-les-plus-fréquents-en-français.pdf"
               }
             ]
@@ -1098,7 +988,7 @@
             "name": "Dialogue",
             "books": [
               {
-                "path": "/file/Dialogue-français.pdf",
+                "path": "/file/Dialogue-français_avhap2.pdf",
                 "name": "Dialogue-français.pdf"
               }
             ],
@@ -1169,11 +1059,11 @@
             "name": "Malagasy",
             "books": [
               {
-                "path": "/file/LESONA-MALAGASY-TERMINALE.pdf",
+                "path": "/file/LESONA-MALAGASY-TERMINALE_vwlfny.pdf",
                 "name": "LESONA-MALAGASY-TERMINALE.pdf"
               },
               {
-                "path": "/file/LESONA-MALAGASY-TACD.pdf",
+                "path": "/file/LESONA-MALAGASY-TACD_y15ygf.pdf",
                 "name": "LESONA-MALAGASY-TACD.pdf"
               }
             ]
@@ -1183,7 +1073,7 @@
             "name": "Mathématiques",
             "books": [
               {
-                "path": "/file/MATHÉMATIQUES-TERMINALE-A.pdf",
+                "path": "/file/MATHÉMATIQUES-TERMINALE-A_agvhp1.pdf",
                 "name": "MATHÉMATIQUES-TERMINALE-A.pdf"
               }
             ]
@@ -1219,11 +1109,11 @@
             "name": "Malagasy",
             "books": [
               {
-                "path": "/file/LESONA-MALAGASY-TERMINALE.pdf",
+                "path": "/file/LESONA-MALAGASY-TERMINALE_vwlfny.pdf",
                 "name": "LESONA-MALAGASY-TERMINALE.pdf"
               },
               {
-                "path": "/file/LESONA-MALAGASY-TACD.pdf",
+                "path": "/file/LESONA-MALAGASY-TACD_y15ygf.pdf",
                 "name": "LESONA-MALAGASY-TACD.pdf"
               }
             ]
@@ -1233,7 +1123,7 @@
             "name": "Mathématiques",
             "books": [
               {
-                "path": "/file/MATHÉMATIQUES-TERMINALE-A.pdf",
+                "path": "/file/MATHÉMATIQUES-TERMINALE-A_agvhp1.pdf",
                 "name": "MATHÉMATIQUES-TERMINALE-A.pdf"
               }
             ]
@@ -1269,7 +1159,7 @@
             "name": "Malagasy",
             "books": [
               {
-                "path": "/file/LESONA-MALAGASY-TERMINALE.pdf",
+                "path": "/file/LESONA-MALAGASY-TERMINALE_vwlfny.pdf",
                 "name": "LESONA-MALAGASY-TERMINALE.pdf"
               }
             ]
@@ -1279,7 +1169,7 @@
             "name": "Mathématiques",
             "books": [
               {
-                "path": "/file/MATHÉMATIQUES-TERMINALE-A.pdf",
+                "path": "/file/MATHÉMATIQUES-TERMINALE-A_agvhp1.pdf",
                 "name": "MATHÉMATIQUES-TERMINALE-A.pdf"
               }
             ]
@@ -1394,6 +1284,68 @@
 
   {
     "id": "boky-developpement-personnel",
-    "name": "BOKY DÉVELOPPEMENT PERSONNEL"
+    "name": "BOKY DÉVELOPPEMENT PERSONNEL",
+    "books": [
+      {
+        "path": "/file/365-Days-With-Self-Discipli_wf2lsk.pdf",
+        "name": "365-Days-With-Self-Discipli_wf2lsk.pdf"
+      },
+      {
+        "path": "/file/654449851-Power-Les-48-Lois-Du-Pouvoir-French-Edition-Robert-Greene_czptzw.pdf",
+        "name": "654449851-Power-Les-48-Lois-Du-Pouvoir-French-Edition-Robert-Greene_czptzw.pdf"
+      },
+      {
+        "path": "/file/De-z%C3%A9ro-%C3%A0-un-Peter-Thiel_zvfqpd.pdf",
+        "name": "De-zéro-à-un-Peter-Thiel.pdf"
+      },
+      {
+        "path": "/file/E-myth-Le-mythe-de-lentrep_l3123j.pdf",
+        "name": "E-myth-Le-mythe-de-lentrep_l3123j.pdf"
+      },
+      {
+        "path": "/file/I-Was-Never-Broken-Sara-Sh_kn3783.pdf",
+        "name": "I-Was-Never-Broken-Sara-Sh_kn3783.pdf"
+      },
+      {
+        "path": "/file/Plus-malin-que-le-diable_u6fokl.pdf",
+        "name": "Plus-malin-que-le-diable_u6fokl.pdf"
+      },
+      {
+        "path": "/file/The-Champions-Mind-How-Grea_jzcpee.pdf",
+        "name": "The-Champions-Mind-How-Grea_jzcpee.pdf"
+      },
+      {
+        "path": "/file/The-Magic-Of-Thinking-Big_kfjmnj.pdf",
+        "name": "The-Magic-Of-Thinking-Big_kfjmnj.pdf"
+      },
+      {
+          "path": "/file/L_entreprise_du_21eme_si%C3%A8cle_-_Robert_kiyosaki_oppmqm.pdf",
+          "name": "L_entreprise_du_21eme_siècle_-_Robert_kiyosaki"
+      },
+      {
+        "path": "/file/Comment_utiliser_la_loi_d_attraction_en_3_%C3%A9tapes_n22t4a.pdf",
+        "name": "Comment_utiliser_la_loi_d_attraction_en_3_étapes.pdf"
+      },
+      {
+        "path": "/file/Ces_gens_qui_vous_empoisonnent_l_existence_-_Glass_Lillian_a5biec.pdf",
+        "name": "Ces_gens_qui_vous_empoisonnent_l_existence_-_Glass_Lillian_a5biec.pdf"
+      },
+      {
+        "path": "/file/Le_bonheur_existe_zuf4zt.pdf",
+        "name": "Le_bonheur_existe_zuf4zt.pdf"
+      },
+      {
+        "path": "/file/Le_Pouvoir_des_habitudes_-_Charles_Duhigg_xshy55.pdf",
+        "name": "Le_Pouvoir_des_habitudes_-_Charles_Duhigg_xshy55.pdf"
+      },
+      {
+        "path": "/file/L_enfant_dans_la_famille_AMI_ofyr3z.pdf",
+        "name": "L_enfant_dans_la_famille_AMI_ofyr3z.pdf"
+      },
+      {
+        "path": "/file/L_enfant_dou%C3%A9_L_intelligence_r%C3%A9concili%C3%A9e_ODILE_JACOB_ersf3l.pdf",
+        "name": "L_enfant_dou%C3%A9_L_intelligence_r%C3%A9concili%C3%A9e_ODILE_JACOB_ersf3l.pdf"
+      }
+    ]
   }
 ]
