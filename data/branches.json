@@ -39,6 +39,14 @@
                 "name": "Français (exercices)",
                 "books": [
                   {
+                    "path": "/file/Français-série-S-2023_kcfhwm.pdf",
+                    "name": "Français-série-S-2023_kcfhwm.pdf"
+                  },
+                  {
+                    "path": "/file/SUJET-TYPE-FRAN%C3%87AIS_st9tvm.pdf",
+                    "name": "SUJET-TYPE-FRANÇAIS_st9tvm.pdf"
+                  },
+                  {
                     "path": "/file/bac2013_Français_A-C-D-1_rf7cja.pdf",
                     "name": "bac2013_Français_A-C-D-1.pdf"
                   },
@@ -244,7 +252,12 @@
               {
                 "id": "connaissance-general",
                 "name": "Connaissance géneral (leçons)",
-                "books": []
+                "books": [
+                  {
+                    "path": "/file/Connaissance-générale-1_cruybv.pdf",
+                    "name": "Connaissance-générale-1_cruybv.pdf"
+                  }
+                ]
               },
               {
                 "id": "ex-connaissance-general",
@@ -282,6 +295,18 @@
                 "id": "ex-francais",
                 "name": "Français (exercices)",
                 "books": [
+                  {
+                    "path": "/file/Fran%C3%A7ais-s%C3%A9rie-OSE-2023_tmwyan.pdf",
+                    "name": "Fran%C3%A7ais-s%C3%A9rie-OSE-2023_tmwyan.pdf"
+                  },
+                  {
+                    "path": "/file/Français-série-S-2023_kcfhwm.pdf",
+                    "name": "Français-série-S-2023_kcfhwm.pdf"
+                  },
+                  {
+                    "path": "/file/SUJET-TYPE-FRAN%C3%87AIS_st9tvm.pdf",
+                    "name": "SUJET-TYPE-FRANÇAIS_st9tvm.pdf"
+                  },
                   {
                     "path": "/file/bac2013_Français_A-C-D-1_rf7cja.pdf",
                     "name": "bac2013_Français_A-C-D-1.pdf"
@@ -345,6 +370,10 @@
                 "name": "Connaissance géneral (leçons)",
                 "books": [
                   {
+                    "path": "/file/Connaissance-générale-1_cruybv.pdf",
+                    "name": "Connaissance-générale-1_cruybv.pdf"
+                  },
+                  {
                     "path": "/file/Cours préparatoires Oral ENS 2021_evb2sp.pdf",
                     "name": "Cours préparatoires Oral ENS 2021.pdf"
                   }
@@ -397,6 +426,18 @@
                 "id": "ex-francais",
                 "name": "Français (exercices)",
                 "books": [
+                  {
+                    "path": "/file/Fran%C3%A7ais-s%C3%A9rie-OSE-2023_tmwyan.pdf",
+                    "name": "Fran%C3%A7ais-s%C3%A9rie-OSE-2023_tmwyan.pdf"
+                  },
+                  {
+                    "path": "/file/Français-série-S-2023_kcfhwm.pdf",
+                    "name": "Français-série-S-2023_kcfhwm.pdf"
+                  },
+                  {
+                    "path": "/file/SUJET-TYPE-FRAN%C3%87AIS_st9tvm.pdf",
+                    "name": "SUJET-TYPE-FRANÇAIS_st9tvm.pdf"
+                  },
                   {
                     "path": "/file/bac2013_Français_A-C-D-1_rf7cja.pdf",
                     "name": "bac2013_Français_A-C-D-1.pdf"
@@ -610,7 +651,13 @@
               },
               {
                 "id": "sujet-francais",
-                "name": "Français (sujet)"
+                "name": "Français (sujet)",
+                "books": [
+                  {
+                    "path": "/file/SUJET-TYPE-FRAN%C3%87AIS_st9tvm.pdf",
+                    "name": "SUJET-TYPE-FRANÇAIS_st9tvm.pdf"
+                  }
+                ]
               },
               {
                 "id": "test-psycho",
@@ -629,7 +676,13 @@
               },
               {
                 "id": "sujet-francais",
-                "name": "Français (sujet)"
+                "name": "Français (sujet)",
+                "books": [
+                  {
+                    "path": "/file/SUJET-TYPE-FRAN%C3%87AIS_st9tvm.pdf",
+                    "name": "SUJET-TYPE-FRANÇAIS_st9tvm.pdf"
+                  }
+                ]
               },
               {
                 "id": "test-psycho",
@@ -808,6 +861,17 @@
             "id": "educateur",
             "name": "Educateur",
             "items": []
+          }
+        ]
+      },
+
+      {
+        "id": "infa",
+        "name": "INFA",
+        "books": [
+          {
+            "path": "/file/Boky_INFA_yvuucy.pdf",
+            "name": "Boky_INFA_yvuucy.pdf"
           }
         ]
       }
@@ -1267,7 +1331,40 @@
       {
         "id": "trading",
         "name": "Trading",
-        "items": []
+        "books": [
+          {
+            "path": "/file/tradding_botdua.pdf",
+            "name": "tradding_botdua.pdf"
+          },
+          {
+            "path": "/file/Trading_In_The_Zone_-_Douglas_2000_s84sgs.pdf",
+            "name": "Trading_In_The_Zone_-_Douglas_2000_s84sgs.pdf"
+          },
+          {
+            "path": "/file/Forex-Trend-Indicators-eBook_tznywf.pdf",
+            "name": "Forex-Trend-Indicators-eBook_tznywf.pdf"
+          },
+          {
+            "path": "/file/6_chandeliers_pvoaq9.pdf",
+            "name": "6_chandeliers_pvoaq9.pdf"
+          },
+          {
+            "path": "/file/Elite-Signals-Trading-Masters_rnvvmb.pdf",
+            "name": "Elite-Signals-Trading-Masters_rnvvmb.pdf"
+          },
+          {
+            "path": "/file/RSI_uibwuf.pdf",
+            "name": "RSI_uibwuf.pdf"
+          },
+          {
+            "path": "/file/ebook-japanese-candlesticks-bank-fr_1_yquder.pdf",
+            "name": "ebook-japanese-candlesticks-bank-fr_1_yquder.pdf"
+          },
+          {
+            "path": "/file/Forex-teny-gasy_1_1_hvumrl.pdf",
+            "name": "Forex-teny-gasy_1_1_hvumrl.pdf"
+          }
+        ]
       },
       {
         "id": "travail-en-ligne",

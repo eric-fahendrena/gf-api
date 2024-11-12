@@ -29,102 +29,6 @@ async function loadJSON(jsonFile) {
   }
 }
 
-/**
- * get questions
- * @returns {Object}
- */
-async function getQuestions() {
-  const questions = Question.find();
-  return questions;
-}
-
-/**
- * get question
- * @param {String} qId 
- * @returns 
- */
-async function getQuestion(qId, res) {
-  try {
-    const question = await Question.findById(qId);
-    if (!question) return res.status(404).json({ message: "question not found" });
-    res.status(200).json(question);
-  } catch (err) {
-    res.status(500).send("Internal Server error");
-  }
-}
-
-/**
- * add questions
- * @param {Object} qDat 
- * @param {Response} res 
- * @returns 
- */
-async function addQuestion(qDat, res) {
-  console.log("Author:", qDat.author);
-  if (!qDat.author) {
-    console.error("missing author");
-    return res && res.status(400).json({ message: "missing question author" });
-  }
-  if (!qDat.title) {
-    console.error("missing title");
-    return res && res.status(400).json({ message: "missing question title" });
-  }
-  if (!qDat.content) {
-    console.error("missing content");
-    return res && res.status(400).json({ message: "missing question content" });
-  }
-
-  try {
-    const question = await new Question(qDat);
-    await question.save();
-    console.log("Added", question);
-  } catch (err) {
-    res && res.status(500).send("Internal Server Error");
-  }
-
-  console.log('Data...');
-  const nQ = await getQuestions();
-  res && res.json(nQ)
-  console.log(nQ);
-}
-
-/**
- * add answer
- * @param {Object} aDat 
- * @param {Response} res 
- * @returns 
- */
-async function addAnswer(aDat, res) {
-  if (!aDat.qId) return res.status(400).json({ message: "missing question id" });
-  if (!aDat.author) return res.status(400).json({ message: "missing author name" });
-  if (!aDat.content) return res.status(400).json({ message: "missing Answer content" });
-
-  try {
-    const question = await Question.findById(aDat.qId);
-    if (!question) return res.status(404).json({ message: "Question not found" });
-
-    const answer = new Answer(aDat);
-    answer.save();
-    console.log('Answer is sent');
-    res.status(200).json({ message: "answer is sent"});
-  } catch (err) {
-    res.status(500).send("Internal server error");
-  }
-}
-
-async function getAnswers(qId, res) {
-  try {
-    const question = await Question.findById(qId);
-    if (!question) return res.status(404).json({ message: "Question not found" });
-
-    const answers = await Answer.find({ qId });
-    res.status(200).json(answers);
-  } catch (err) {
-    console.error("error", err);
-    res.status(500).send("Internal Server Error");
-  }
-}
-
 dotenv.config();
 dbConnect();
 const app = express();
@@ -184,6 +88,10 @@ app.get('/api/categories', authenticateToken, async (req, res) => {
   const branches = await loadJSON("branches.json");
   res.json(branches);
 });
+app.get('/api/asa-en-ligne', authenticateToken, async (req, res) => {
+  const asaEnLigne = await loadJSON("asa-en-ligne.json");
+  res.json(asaEnLigne);
+});
 app.get('/api/file/:filename', (req, res) => {
   const filename = req.params.filename;
   const filepath = path.join(process.cwd(), "data", filename);
@@ -193,30 +101,6 @@ app.get('/api/file/:filename', (req, res) => {
   } else {
     res.status(404).send("File Not Found");
   }
-});
-app.post('/api/questions/add', authenticateToken, async (req, res) => {
-  const qDat = req.body;
-  console.log("req body", req.body);
-  addQuestion(qDat, res);
-});
-app.get('/api/questions', authenticateToken, async (req, res) => {
-  const questions = await getQuestions();
-  res.json(questions);
-});
-app.get('/api/questions/:id', authenticateToken, async (req, res) => {
-  const { id } = req.params;
-  await getQuestion(id, res);
-});
-app.get('/api/questions/:id/answers', authenticateToken, async (req, res) => {
-  const { id } = req.params;
-  await getAnswers(id, res);
-});
-
-app.post('/api/questions/:qId/reply', authenticateToken, async (req, res) => {
-  const { qId } = req.params;
-  const { author, content } = req.body;
-  
-  await addAnswer({ qId, author, content }, res);
 });
 
 app.listen(port, () => {

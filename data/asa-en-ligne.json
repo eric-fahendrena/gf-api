@@ -1,0 +1,135 @@
+[
+  {
+    "id": "my-tyson",
+    "name": "My Tyson",
+    "items": [
+      {
+        "id": "fanazavana",
+        "name": "Fanazavana",
+        "images": [
+          {
+            "path": "https://res.cloudinary.com/dbmbskzzr/image/upload/v1731321810/462538909_1117296083148834_1225113645244410177_n_zl1ggt.jpg",
+            "name": "462538909_1117296083148834_1225113645244410177_n_zl1ggt.jpg"
+          },
+          {
+            "path": "https://res.cloudinary.com/dbmbskzzr/image/upload/v1731322880/462556972_867054805621367_1709267216602723910_n_pgcih1.jpg",
+            "name": "462556972_867054805621367_1709267216602723910_n_pgcih1.jpg"
+          },
+          {
+            "path": "https://res.cloudinary.com/dbmbskzzr/image/upload/v1731323183/462553847_1093370318983230_3643677125319057146_n_aevlcr.jpg",
+            "name": "462553847_1093370318983230_3643677125319057146_n_aevlcr.jpg"
+          },
+          {
+            "path": "https://res.cloudinary.com/dbmbskzzr/image/upload/v1731323231/462549136_1100279354966319_7907567742961779543_n_vwsu0c.jpg",
+            "name": "462549136_1100279354966319_7907567742961779543_n_vwsu0c.jpg"
+          },
+          {
+            "path": "https://res.cloudinary.com/dbmbskzzr/image/upload/v1731323281/462559086_1475632899781608_5641933711431866550_n_zv8etm.jpg",
+            "name": "462559086_1475632899781608_5641933711431866550_n_zv8etm.jpg"
+          },
+          {
+            "path": "https://res.cloudinary.com/dbmbskzzr/image/upload/v1731323335/462553486_556396120695419_5994849086175666268_n_bp9fkv.jpg",
+            "name": "462553486_556396120695419_5994849086175666268_n_bp9fkv.jpg"
+          },
+          {
+            "path": "https://res.cloudinary.com/dbmbskzzr/image/upload/v1731323386/462565523_896458845526245_6548705332474563229_n_pzmhek.jpg",
+            "name": "462565523_896458845526245_6548705332474563229_n_pzmhek.jpg"
+          },
+          {
+            "path": "https://res.cloudinary.com/dbmbskzzr/image/upload/v1731323436/462547821_531561879708702_926514060682720964_n_r5whg1.jpg",
+            "name": "462547821_531561879708702_926514060682720964_n_r5whg1.jpg"
+          },
+          {
+            "path": "https://res.cloudinary.com/dbmbskzzr/image/upload/v1731323471/462538897_8711378138908296_4865070049347617692_n_bfl7ez.jpg",
+            "name": "462538897_8711378138908296_4865070049347617692_n_bfl7ez.jpg"
+          }
+        ]
+      },
+      {
+        "id": "inscription",
+        "name": "Inscription",
+        "links": [
+          {
+            "url": "https://www.viptyfoods.com/?fbclid=IwZXh0bgNhZW0CMTEAAR3qia6nUYGD8DxqxA5Xc9YyquWJQ_hkwlB83K8prWfqhSOB-2WpXep0mCA_aem_J4vBU6N3NSyZHc0TyGmutw#/pages/login/login?inviteCode=806804&pageIndex=2",
+            "name": "VipTyFoods"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "my-survey",
+    "name": "My Survey",
+    "items": [
+      {
+        "id": "fanazavana",
+        "name": "Fanazavana",
+        "links": [
+          {
+            "url": "https://surveylama.com/fr/terms-of-reward",
+            "name": "Fanazavana"
+          }
+        ]
+      },
+      {
+        "id": "inscription",
+        "name": "Inscription",
+        "links": [
+          {
+            "url": "https://surveylama.com/en",
+            "name": "The Best Paid Surveys of 2024"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "smm",
+    "name": "Social Media Manager (SMM)",
+    "items": []
+  },
+
+  {
+    "id": "support-client",
+    "name": "Support clients",
+    "items": []
+  },
+
+  {
+    "id": "redacteur-web",
+    "name": "Rédacteur Web",
+    "items": []
+  },
+
+  {
+    "id": "etoro",
+    "name": "eToro",
+    "items": []
+  },
+
+  {
+    "id": "avatrade",
+    "name": "Avatrade",
+    "items": []
+  },
+
+  {
+    "id": "boursorama",
+    "name": "Boursorama",
+    "items": []
+  },
+
+  {
+    "id": "fortuneo",
+    "name": "Fortuneo",
+    "items": []
+  },
+
+  {
+    "id": "capitale-com",
+    "name": "Capitale.com",
+    "items": []
+  }
+]
