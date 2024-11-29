@@ -84,13 +84,17 @@ const authenticateToken = (req, res, next) => {
  * endpoints api
  */
 
-app.get('/api/categories', authenticateToken, async (req, res) => {
+app.get('/api/categories', async (req, res) => {
   const branches = await loadJSON("branches.json");
   res.json(branches);
 });
 app.get('/api/asa-en-ligne', authenticateToken, async (req, res) => {
   const asaEnLigne = await loadJSON("asa-en-ligne.json");
   res.json(asaEnLigne);
+});
+app.get('/api/sary-sy-videos', async (req, res) => {
+  const sv = await loadJSON("sary-sy-videos.json");
+  res.json(sv);
 });
 app.get('/api/file/:filename', (req, res) => {
   const filename = req.params.filename;
