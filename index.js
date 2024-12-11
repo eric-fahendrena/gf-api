@@ -96,6 +96,10 @@ app.get('/api/sary-sy-videos', async (req, res) => {
   const sv = await loadJSON("sary-sy-videos.json");
   res.json(sv);
 });
+app.get('/api/concours-dispo', async (req, res) => {
+  const cd = await loadJSON("concours-dispo.json");
+  res.json(cd);
+});
 app.get('/api/file/:filename', (req, res) => {
   const filename = req.params.filename;
   const filepath = path.join(process.cwd(), "data", filename);
